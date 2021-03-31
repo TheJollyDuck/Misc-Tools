@@ -22,10 +22,6 @@
 typedef struct conversion {
   
   int decimal;
-  char *binary;
-  char *hexidec;
-  char *other;
-  int base;
 
 } number;
 
